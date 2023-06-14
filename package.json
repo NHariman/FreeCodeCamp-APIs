@@ -1,6 +1,8 @@
 {
   "author": "Niks Hariman",
   "description": "Free Code Camp practice on backend and API",
+  "license": "MIT",
+  "version": "0.0.1",
   "keywords": [
     "backend",
     "api",

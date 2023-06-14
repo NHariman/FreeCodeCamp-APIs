@@ -5,7 +5,8 @@
     "backend",
     "api",
     "nodejs",
-    "javascript"
+    "javascript",
+    "freecodecamp"
   ],
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
